@@ -1,0 +1,18 @@
+/*
+Your Comment Header Here
+*/
+
+#n-prime {
+    width: 100%;
+}
+
+.center{
+    margin-top: 10px;
+    text-align: center;
+}
+
+.centered{
+    margin: 30px auto 0px auto;
+    max-width: 120px;
+    text-align: center;
+}
